@@ -1,21 +1,18 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=993399&height=120&section=header"/>
+Olá! Me chamo Vitória👋
 
-Adoro explorar tecnologia e aprender coisas novas. Aqui compartilho projetos 🎯
-  
----
+🎓 Formada em Análise e Desenvolvimento de Sistemas
+📊 Análise de Dados
 
-## 🧠 Sobre Mim
-🔭 Desenvolvedora de Software 
-🎓 Análise e Desenvolvimento de Sistemas (em andamento)  
+🛠️ Tecnologias
 
----
+Excel • SQL • Python • Power BI
 
-## 🛠 Tech Stack
-- **Backend:** C#, .NET, ASP.NET
-- **Frontend:** JavaScript, TypeScript, Angular, React  
-- **Banco de Dados:** SQL Server, MySQL  
-- **Ferramentas:** Git, GitHub, Visual Studio, VS Code
+💻 Conhecimentos complementares
 
+Front-end • Back-end • Git/GitHub
 
+🎯 Objetivo
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=993399&height=120&section=footer"/>
+Desenvolver soluções baseadas em dados, transformando informações em análises e insights que apoiem a tomada de decisões.
+
+📁 Aqui compartilho meus projetos, estudos e evolução na área de Dados.
