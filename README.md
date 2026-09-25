@@ -1,6 +1,7 @@
 Olá! Me chamo Vitória👋
 
 🎓 Formada em Análise e Desenvolvimento de Sistemas
+
 📊 Análise de Dados
 
 🛠️ Tecnologias
