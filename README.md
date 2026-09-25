@@ -1,18 +1,18 @@
-Olá! Me chamo Vitória👋
+# Olá! Me chamo Vitória👋
 
 🎓 Formada em Análise e Desenvolvimento de Sistemas
 
 📊 Análise de Dados
 
-🛠️ Tecnologias
+### 🛠️ Tecnologias
 
-Excel • SQL • Python • Power BI
+`Excel` • `SQL` • `Python` • `Power BI`
 
-💻 Conhecimentos complementares
+### 💻 Conhecimentos complementares
 
-Front-end • Back-end • Git/GitHub
+`Front-end` • `Back-end` • `Git/GitHub`
 
-🎯 Objetivo
+### 🎯 Objetivo
 
 Desenvolver soluções baseadas em dados, transformando informações em análises e insights que apoiem a tomada de decisões.
 
